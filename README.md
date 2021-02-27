@@ -1,3 +1,3 @@
-# OS-xv6-
+# OS assignment
 OS assignment 
 XV6 Free List
